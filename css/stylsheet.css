@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: Georgia;
+}
+
+h2 {
+    color: lime;
+    background-color: purple;
+    font-family: 'Times New Roman';
+}
+h3 {
+    color: red;
+    background-color: green;
+    font-family: 'Gill Sans';
+}
+h4 {color: white;
+    background-color: gray;
+    font-family: Cambria, 
+}
+h5 {
+    color: palegreen;
+    background-color: darkblue;
+    font-family: Arial Narrow;
+}
+h6 {color: grey;
+    background-color: black;
+    font-family: Calibri; 
+
+}
+p {
+    color: chartreuse;background-color: crimson;
+}
